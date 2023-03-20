@@ -1,0 +1,27 @@
+{
+  "name": "everest-engineering-test",
+  "version": "1.0.0",
+  "description": "An assignment for courier application",
+  "private": true,
+  "author": "ngankingwin@gmail.com>",
+  "license": "freeware",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nomadslayer/everest-test"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --watchAll --coverage",
+    "test:unit": "jest --testPathPattern=\"./src/.*.test.js\" --coverage --watch",
+    "test:integration": "jest --testPathPattern=\"./integration/.*.test.js\" --watch"
+  },
+  "bin": "./index.js",
+  "dependencies": {
+    "console-table-printer": "^2.11.1",
+    "inquirer": "^8.2.5"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3",
+    "nodemon": "^2.0.19"
+  }
+}
