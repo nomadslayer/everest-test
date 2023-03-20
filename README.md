@@ -10,13 +10,13 @@ Delivery Cost Estimation with Offers.
 Problem 2
 Delivery Time Estimation
 
-# TO START USING APPLICATION, RUN
+### TO START USING APPLICATION, RUN
 
 ```
 npm i --save/--dev-save
 ```
 
-# RUN THE APPLICATION
+### RUN THE APPLICATION
 
 ```
 npm start
