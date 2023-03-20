@@ -1,4 +1,6 @@
 # JavaScript small distance courier service application
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/nomadslayer/everest-test)
+
 
 ### The application consist of two seperate problems
 
